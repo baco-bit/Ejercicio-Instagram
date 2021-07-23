@@ -4,19 +4,45 @@ body{
 	margin: 0 auto;
 	width: auto;
 }
+header{
+	background-color: white;
+	width: 100%;
+	margin: auto;
+	text-align: center;
+	border-bottom: silver;
+	border-color: silver;
+	padding-top: 10px;
+}
 
-img{
-	width: 50%;
-	display: block;
-	padding: 50px 370px; 
-	border-radius: 10px 10px;
-
+div.post{
+	background-color: silver;
+	margin-top: 10px;
+}
+div.post img{
+	width: 100%;
 }
 h1{
 	margin: 0;
 	background-color: white;
 	height: 50px;
-	padding: 0 370px;
-
 }
-	
+h2{
+	padding: 10px;
+	margin: 0;
+	text-align: left;
+}
+div.post-header{
+	width: 600px;
+	padding-bottom: 10px;
+	margin: 50px auto;
+	background-color: white;
+}
+span{
+	float: right;
+	margin-top: 11px;
+	font-size: 20px;
+	font color: silver;
+}
+#fecha{
+	color: silver;
+}
