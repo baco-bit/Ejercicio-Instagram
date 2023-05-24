@@ -1,6 +1,6 @@
 
 body{
-	background-color: silver;
+	background-color: rgb(230, 230, 230);
 	margin: 0 auto;
 	width: auto;
 }
@@ -9,13 +9,11 @@ header{
 	width: 100%;
 	margin: auto;
 	text-align: center;
-	border-bottom: silver;
-	border-color: silver;
 	padding-top: 10px;
 }
 
 div.post{
-	background-color: silver;
+	background-color: rgb(230, 230, 230);
 	margin-top: 10px;
 }
 div.post img{
@@ -41,8 +39,10 @@ span{
 	float: right;
 	margin-top: 11px;
 	font-size: 20px;
-	font color: silver;
 }
 #fecha{
 	color: silver;
+}
+p{
+	margin-left: 20px;
 }
